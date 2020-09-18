@@ -10,7 +10,7 @@ Basic HTML & CSS
 
 ## Code examples
 
-temporarily absent
+none
 
 ## Work experience
 
